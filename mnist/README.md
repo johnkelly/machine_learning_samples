@@ -1,0 +1,2 @@
+# MNIST TensorFlow
+* Following along from https://www.tensorflow.org/get_started/mnist/beginners
